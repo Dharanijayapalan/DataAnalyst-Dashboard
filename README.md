@@ -5,6 +5,7 @@ A Excel dashboard that analyzes sales trends, region-wise performance, and top-p
 
 **Tools Used**: Excel  
 **Dataset**: Sample Superstore 
+
 **Insights**:
 - Washington is  top profitable city
 - East region had highest profit margin and south region had lowest profit margin
