@@ -10,3 +10,6 @@ A Excel dashboard that analyzes sales trends, region-wise performance, and top-p
 - East region had highest profit margin and south region had lowest profit margin
 - Tables are the least profitable product sub-categories
 - Californiya is top profitable state
+  
+# Dashboard
+https://github.com/Dharanijayapalan/DataAnalyst-Dashboard/blob/main/Screenshot%202025-04-16%20002750.png
